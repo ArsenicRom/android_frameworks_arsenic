@@ -1,4 +1,4 @@
-package havoc.support.lottie;
+package arsenic.support.lottie;
 
 import android.support.v4.util.Pair;
 

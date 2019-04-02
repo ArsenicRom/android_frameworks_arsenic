@@ -1,6 +1,6 @@
-package havoc.support.lottie;
+package arsenic.support.lottie;
 
-import havoc.support.lottie.utils.MeanCalculator;
+import arsenic.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;

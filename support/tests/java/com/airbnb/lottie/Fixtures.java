@@ -1,4 +1,4 @@
-package havoc.support.lottie;
+package arsenic.support.lottie;
 
 class Fixtures {
   static final String SQUARES = "{\"v\":\"4.11.1\",\"fr\":29.9700012207031,\"ip\":0," +

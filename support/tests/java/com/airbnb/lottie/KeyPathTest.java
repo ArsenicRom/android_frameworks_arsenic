@@ -1,8 +1,8 @@
-package havoc.support.lottie;
+package arsenic.support.lottie;
 
 import android.util.JsonReader;
 
-import havoc.support.lottie.model.KeyPath;
+import arsenic.support.lottie.model.KeyPath;
 
 import org.junit.Before;
 import org.junit.Test;
